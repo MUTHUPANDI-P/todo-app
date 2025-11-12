@@ -1,6 +1,6 @@
 # 📝 Todo Task Management App
 
-This is a full-stack task management web application built with the MERN stack (MongoDB, Express, React, Node.js). It allows users to securely log in with Google, manage tasks, share them with others via email, and see real-time updates.
+This is a full-stack task management web application built.It allows users to securely log in with Google, manage tasks, share them with others via email, and see real-time updates.
 
 ---
 
