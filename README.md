@@ -29,7 +29,7 @@ This is a full-stack task management web application built with the MERN stack (
 - **Backend:** Node.js, Express.js, MongoDB
 - **Auth:** Passport.js (Google OAuth), JWT
 - **Real-time:** Socket.IO
-- **Database:** MongoDB Atlas
+- **Database:** sql
 - **Deployment:** Vercel (Frontend), Render (Backend)
 
 ---
